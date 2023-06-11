@@ -1,2 +1,4 @@
-# comp_508_sql_project_code
-# comp_508_sql_project_code
+# COMP508 Paired Assignment
+## SQL Code
+
+Our SQL Code submission for our Pair Assignment.
